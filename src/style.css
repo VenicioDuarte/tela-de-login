@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.welcome_Message{
+    margin-bottom: 30px;
+    color: #999;
+    text-align-last: center;
+    font-size: 14px;
+}
+.password{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+.forget-password{
+    text-align: right;
+}
+.button{
+    width: 300px;
+    height: 40px;
+    background-color: #4162b7;
+    color: white;
+    border-radius: 5px;
+}
+.Text_login{
+    text-align: center;
+}
+.não-tem-conta{
+    text-align: center;
+}
+.cadastre-se{
+    color: blue;
+}
+.text_conta{
+    margin-top: 25px;
+    color: #999;
+    text-align-last: center
+}
+
